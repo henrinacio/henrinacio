@@ -4,7 +4,6 @@
 💻 Currently working as a **Front-end Developer** at [Mercado Bitcoin](https://www.linkedin.com/company/mercado-bitcoin/);
 
 🎓 I hold a bachelor's degree in Information and Communication Technologies from Federal University of Santa Catarina (UFSC);\
-🌱 Creating a [budget & expenses dashboard](https://github.com/henrinacio/emilia-dashboard) for my personal project;
 
 📫 How to reach me henriquedegodoy@gmail.com;\
 ⚡ P.S.: I always program listening to instrumental music.
